@@ -90,6 +90,7 @@ class FacebookProvider(application: Application) extends OAuth2Provider(applicat
       }
     } catch {
       case e: Exception => {
+          e.printStackTrace()
           Logger.error("[securesocial] error retrieving profile information from Facebook",  e)
           throw new AuthenticationException()
       }

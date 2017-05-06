@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/application.conf,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/messages,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/messages)[0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/messages.nl,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/messages.nl)[0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/messages.zh-CN,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/messages.zh-CN)[0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/messages.zh-TW,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/messages.zh-TW)[0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/securesocial,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/securesocial)[0m
+[0m[[0mdebug[0m] [0m	(/Users/fie070/old-server/securesocial/module-code/conf/securesocial/defaults.conf,/Users/fie070/old-server/securesocial/module-code/target/scala-2.10/classes/securesocial/defaults.conf)[0m
